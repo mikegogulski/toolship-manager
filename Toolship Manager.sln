@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.960
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toolship Manager", "Toolship Manager\Toolship Manager.csproj", "{73E90959-6D40-4CCD-A0EA-ABD80463326C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73E90959-6D40-4CCD-A0EA-ABD80463326C}.Debug|x64.ActiveCfg = Debug|x64
+		{73E90959-6D40-4CCD-A0EA-ABD80463326C}.Debug|x64.Build.0 = Debug|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B62E36C3-6D6D-47C6-A8BF-1E5B3C4CC4FE}
+	EndGlobalSection
+EndGlobal
